@@ -38,24 +38,32 @@
         </header>
       </div>
     </div>
+    
+      <div id="main" role="main" class="container">
+      {{ content }}
+      
+    </div>
+    
     <div id="sidebar" class="container">
-    	{% include Aboutme.html %}
+    	{% include head.html %}
+    	{% include header.html %}
     	{% include Archives.html %}
     	{% include Blogroll.html %}
     	{% include Categories.html %}
-    	{% include Copyright_Notice.html %}
     	{% include Recent_Posts.html %}
-    	
+    	{% include Tags.html %}
+    	{% include analytics.html %}
+    	{% include comments.html %}
+    	{% include disqus.html %}
+    	{% include page_pagination.html %}
+    	{% include post_pagination.html %}
     </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    
 
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          {% include footer.html %}
         </footer>
       </div>
     </div>
