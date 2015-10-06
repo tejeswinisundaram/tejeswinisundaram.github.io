@@ -3,7 +3,8 @@ layout: post
 title: Hello World!
 ---
 
+Hello There! Welcome to the webpage of Tejeswini Sundaram. 
 
-![_config.yml]({{ site.baseurl }}/images/pic1.png)
+
 
 
