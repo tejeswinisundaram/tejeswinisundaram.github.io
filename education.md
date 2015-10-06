@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: Academic Background
 permalink: /education/
 ---
 
-B. Tech in Computer Science, Manipal Institute of Technology,Class of 2015 
+B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 
+
 CGPA : 9.43/10.00
