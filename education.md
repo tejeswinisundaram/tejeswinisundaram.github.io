@@ -18,6 +18,7 @@ CGPA : 9.43 / 10.00 </br>
 
 
 **Courses taken at MIT Manipal**: </br>
+
 - Problem Solving Using Computers (CSE 101)
 - Engineering Mathematics - 1 (MAT 101)
 - Engineering Mathematics - 2 (MAT 102)
