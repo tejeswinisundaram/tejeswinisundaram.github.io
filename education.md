@@ -17,7 +17,7 @@ CGPA : 9.43 / 10.00 </br>
 - Machine Learning </br>
 
 
-**Courses taken at MIT Manipal**: </br>
+**Courses taken at [link URL][1] MIT Manipal**: </br>
 
 - Problem Solving Using Computers (CSE 101)
 - Engineering Mathematics - 1 (MAT 101)
