@@ -4,9 +4,9 @@ title: Academic Background
 permalink: /education/
 ---
 
-B. Tech in Computer Science,[link url][1] Manipal Institute of Technology, Class of 2015 </br>
+B. Tech in Computer Science,[link URL][1] Manipal Institute of Technology, Class of 2015 </br>
 CGPA : 9.43 / 10.00 </br>
-
+[1] : http://manipal.edu/mit/programs/program-list/btech.html
 **Areas of Interest**:  </br>
 
 - High Performance Computing 
@@ -18,7 +18,7 @@ CGPA : 9.43 / 10.00 </br>
 
 
 **Courses taken at [link URL][1] MIT Manipal**: </br>
-
+[1] : http://manipal.edu/mit/programs/program-list/btech.html
 - Problem Solving Using Computers (CSE 101)
 - Engineering Mathematics - 1 (MAT 101)
 - Engineering Mathematics - 2 (MAT 102)
@@ -48,4 +48,4 @@ CGPA : 9.43 / 10.00 </br>
 - Data Warehousing and Data Mining (ELE 3)
 - Artificial Neural Networks and Fuzzy Systems (ELE 4)
 
-[1] : http://manipal.edu/mit/programs/program-list/btech.html
+
