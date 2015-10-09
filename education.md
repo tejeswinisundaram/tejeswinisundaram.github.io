@@ -8,11 +8,12 @@ B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 </br
 CGPA : 9.43 / 10.00 </br>
 
 **Areas of Interest**:  </br>
-- High Performance Computing </br>
-- Parallel Computer Vision </br>
-- Computer Architecture  </br>
-- Operating Systems  </br>
-- Parallel Computing </br>
+
+- High Performance Computing 
+- Parallel Computer Vision 
+- Computer Architecture 
+- Operating Systems 
+- Parallel Computing 
 - Machine Learning </br>
 
 
