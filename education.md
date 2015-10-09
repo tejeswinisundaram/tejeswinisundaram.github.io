@@ -7,7 +7,6 @@ permalink: /education/
 
 B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 </br>
 CGPA : 9.43 / 10.00 </br>
-
 **Areas of Interest**:  </br>
 
 - High Performance Computing 
@@ -19,7 +18,6 @@ CGPA : 9.43 / 10.00 </br>
 
 
 **Courses taken at MIT Manipal**: </br>
-
 - Problem Solving Using Computers (CSE 101)
 - Engineering Mathematics - 1 (MAT 101)
 - Engineering Mathematics - 2 (MAT 102)
@@ -48,4 +46,5 @@ CGPA : 9.43 / 10.00 </br>
 - Software Testing (ELE 2)
 - Data Warehousing and Data Mining (ELE 3)
 - Artificial Neural Networks and Fuzzy Systems (ELE 4)
+
 
