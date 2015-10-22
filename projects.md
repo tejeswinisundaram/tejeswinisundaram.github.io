@@ -9,7 +9,7 @@ Analyzing the performance and bottlenecks involved in accelerated computer visio
 coprocessors and GPGPUs such as Intel Xeon Phi and Nvidia Tesla,under the guidance of Prof. R Govindarajan.
 </br></br>
 
-###Winter Research Student | IPTSE Winter School, Carnegie Mellon University. (Dec, 2014) </br>
+###Winter School Student | IPTSE Winter School, Carnegie Mellon University. (Dec, 2014) </br>
  **Voice Forensics** </br>
 A system that would identify bodily features such as height, weight, age, sex, region of origin and various other
 demographic information about a miscreant from the voice evidence collected. The end objective was to build an
@@ -17,7 +17,7 @@ extensive, if not comprehensive, one-of-a-kind voiceprint database to enable aut
 project was done under the guidance of Prof. Bhiksha Raj and Prof. Rita Singh, School of Computer Science, Carnegie
 Mellon University. </br>
 
-###Research Student | Manipal University Innovation Centre. (Aug-Dec, 2014) </br>
+###Project Student | Manipal University Innovation Centre. (Aug-Dec, 2014) </br>
 **Static and Dynamic Video Summarization Technique** </br>
 An improvised static and dynamic video summarization technique, was implemented under the guidance of Dr.
 Manohara Pai. M. M, Associate Director, Manipal Institute of Technology. In this project, we made use of various data
