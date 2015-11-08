@@ -23,7 +23,7 @@ CGPA : 9.41 / 10.00 </br>
 - Engineering Mathematics - 1 (MAT 101)
 - Engineering Mathematics - 2 (MAT 102)
 - Engineering Mathematics - 3 (MAT 209)
-- Engineering Mathematics - 3 (MAT 212)
+- Engineering Mathematics - 4 (MAT 212)
 - Computer Organization and Design (CSE 201)
 - Switching Theory and Logic Design (CSE 203)
 - Data Structures Using C (CSE 205)
