@@ -3,4 +3,4 @@ layout: page
 permalink: /activities/
 ---
 
-<p> Activities, hobbies and non-academic page"</p>
+<p> This page is dedicated to my non-academic activities and hobbies</p>
