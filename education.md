@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 </br>
-CGPA : 9.43 / 10.00 </br>
+CGPA : 9.41 / 10.00 </br>
 
 **Areas of Interest**:  </br>
 
@@ -60,4 +60,8 @@ CGPA : 9.43 / 10.00 </br>
 - Mechanical Engineering Sciences (MME 102)
 - Engineering Physics (PHY 102)
 - Basic Workshop Practice (MME 106)
-- Communication Skills in English (HSS 102) 
+- Communication Skills in English (HSS 102)
+
+
+
+ 
