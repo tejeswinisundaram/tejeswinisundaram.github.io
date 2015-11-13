@@ -2,7 +2,7 @@
 layout: post
 title: IISc Days
 ---
-
+The following are pictures taken during my days as a PA and Intern at Indian Institute of Science.  
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
