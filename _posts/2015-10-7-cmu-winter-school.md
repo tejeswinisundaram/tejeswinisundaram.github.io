@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IPTSE NITK CMU Winter School 2014
+title: Interesting Reads
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
