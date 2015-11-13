@@ -42,7 +42,7 @@ CGPA : 9.41 / 10.00 </br>
 - Language Processors (CSE 302)
 - Network Protocols (CSE 304)
 - Parallel Computer Architecture and Programming (CSE 306)
-- Elective I : ryptography and Network Security (CSE 324))
+- Elective I : Cryptography and Network Security (CSE 324))
 - Essentials of Management and Engineering Economics (HSS 302)
 - Open Elective - Human Factors Engineering and Design (HSS 348)
 - Distributed Computing Systems (CSE 401)
