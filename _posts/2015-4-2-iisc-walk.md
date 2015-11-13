@@ -10,6 +10,7 @@ title: IISc Days
 <tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-cgBQf8EOCTg/VQqv78Gx21I/AAAAAAAACpE/W2xexnzI1h8/s1600/IISC%2BSERC.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://4.bp.blogspot.com/-cgBQf8EOCTg/VQqv78Gx21I/AAAAAAAACpE/W2xexnzI1h8/s1600/IISC%2BSERC.jpg" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">SERC, IISc Bangalore - My workplace for the next few months<br />
 <br /></td></tr>
+<!-- more -->
 </tbody></table>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td><a href="http://3.bp.blogspot.com/-d5QWkvI90Bk/VQqwJUGWEiI/AAAAAAAACsc/t9d7UVkz8BE/s1600/IISc%2Bhugging%2Btree.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://3.bp.blogspot.com/-d5QWkvI90Bk/VQqwJUGWEiI/AAAAAAAACsc/t9d7UVkz8BE/s1600/IISc%2Bhugging%2Btree.jpg" width="320" /></a></td></tr>
