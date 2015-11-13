@@ -45,27 +45,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 h4 {
-  font-size: 12px;
+  font-size: 14px;
   color: $gray;
 }
 
 p {
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 a {
@@ -78,7 +78,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin: 5px 0;
   padding-left: 30px;
 }
 
@@ -167,7 +167,7 @@ img {
   float: left;
   width: 35px;
   height: 35px;
-  margin-right: 10px;
+  margin-right: 5px;
 
   @include mobile {
     float: none;
@@ -212,13 +212,13 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 25px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 12px;
     display: block;
     font-size: 16px;
   }
@@ -272,14 +272,14 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 10px;
+  margin-top: 5px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
 
 footer {
-  padding: 20px 0;
+  padding: 5px 0;
   text-align: center;
 }
 
