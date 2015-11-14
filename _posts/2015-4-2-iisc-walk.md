@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IISc Days
-permalink: /blog/:title/
 ---
 
 The following are pictures taken during my days as a PA and Intern at Indian Institute of Science.  
