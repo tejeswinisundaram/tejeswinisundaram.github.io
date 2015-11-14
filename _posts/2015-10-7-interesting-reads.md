@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting Reads
+permalink: /blog/:title/
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
