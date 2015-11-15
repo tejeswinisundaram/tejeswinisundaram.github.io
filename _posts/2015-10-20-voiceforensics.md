@@ -6,7 +6,7 @@ title: Voice Forensics
 The following is a summary of the work done by my team at the CMU IPTSE Winter School 2014. <br />
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">OBJECTIVE</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">OBJECTIVE</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -15,7 +15,7 @@ voice forensics system that would identify bodily features such as height,
 weight, age, sex, region of origin and various other demographic information
 about a miscreant from the voice evidence collected. The end objective is to
 build an extensive, if not comprehensive, one-of-a-kind &nbsp;voice print</span><span style="font-size: 12pt; line-height: 115%;">&nbsp;database to
-enable authorities to track criminals.</span><o:p></o:p></div>
+enable authorities to track criminals.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
