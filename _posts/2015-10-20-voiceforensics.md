@@ -4,7 +4,7 @@ title: Voice Forensics
 ---
 
 The following is a summary of the work done by my team at the CMU IPTSE Winter School 2014. 
-
+<br/>
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="MsoNormal" style="text-align: justify;">
 <b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">OBJECTIVE</span></b><o:p></o:p></div>
