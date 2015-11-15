@@ -3,8 +3,7 @@ layout: post
 title: Voice Forensics
 ---
 
-The following is a summary of the work done by my team at the CMU IPTSE Winter School 2014. 
-<br/>
+The following is a summary of the work done by my team at the CMU IPTSE Winter School 2014. <br />
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="MsoNormal" style="text-align: justify;">
 <b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">OBJECTIVE</span></b><o:p></o:p></div>
@@ -20,7 +19,7 @@ enable authorities to track criminals.</span><o:p></o:p></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">ABSTRACT</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">ABSTRACT</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -39,11 +38,11 @@ and improvise the area of Voice Forensics. The ultimate aim of the project is
 to equip law enforcement agencies with the tools to process voice samples and
 provide physical and demographic information about the miscreant that could be
 used as an important evidence for investigation purposes. We propose to build a
-unique one-of-a-kind voice print database for further research and analysis.</span><o:p></o:p></div>
+unique one-of-a-kind voice print database for further research and analysis.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">INTRODUCTION</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">INTRODUCTION</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -62,7 +61,7 @@ not one of them yet. With the technology we are developing, it would be
 possible for the CBI to investigate cases with the evidences obtained from
 voice and speech also.</span><span style="font-size: 10.0pt; line-height: 115%;"> </span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">With this
 tool, voice could be used as a reliable evidence in a court proceeding as per
-Section 65B of the Indian Evidence Act, 1972.</span><o:p></o:p></div>
+Section 65B of the Indian Evidence Act, 1972.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -82,25 +81,25 @@ purpose of voice forensic study. In addition to this problem, there are no
 publicly available benchmarks to test an attribute identification method. This
 is mainly due to the difficulty in procuring a large dataset for the models to
 work on and the absence of a framework for testing. Moreover, there exists no
-framework that does the work of:</span><o:p></o:p></div>
+framework that does the work of:</span></div>
 <div class="MsoNormal" style="margin-left: 0.15pt; text-align: left;">
 <br /></div>
 <div class="MsoListParagraphCxSpFirst" style="text-align: left; text-indent: -0.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Collecting
-a large quantity of audio data from the citizens of our nation</span><o:p></o:p></div>
+a large quantity of audio data from the citizens of our nation</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="text-align: left; text-indent: -0.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Storing,
-Analyzing, Validating the audio samples collected and managing it securely.</span><o:p></o:p></div>
+Analyzing, Validating the audio samples collected and managing it securely.</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="text-align: left; text-indent: -0.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Perform
 formal research on the collected voice samples. There is no framework that
 allows for testing different models that predict physical attribute of a person
-from their voice.</span><o:p></o:p></div>
+from their voice.</span></div>
 <div class="MsoListParagraphCxSpLast" style="text-align: left; text-indent: -0.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Provides
 aids to the work of researchers across the country to use this nationwide audio
 database for other interesting applications. (Anonymity of persons will be maintained
-for security purposes).<o:p></o:p></span></div>
+for security purposes).</span></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: -17.95pt;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -111,11 +110,11 @@ The long term aim of this project is to equip law enforcement agencies with the
 required tools to perform voice forensics and provide necessary evidence for
 enforcement of law and order. With the system we build, the officials should be
 able to estimate with good accuracy, the physical and geographical features of
-the suspect.</span><o:p></o:p></div>
+the suspect.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">DATA COLLECTION</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">DATA COLLECTION</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -129,11 +128,11 @@ person, making a total of 1000 recordings. The samples were recorded using an
 external microphone on Audacity, in a relatively quiet room. We ensured that
 the recordings were lossless. All other necessary conditions like distance
 between the speaker and the microphone were taken care of while recording the
-voice samples.</span><o:p></o:p></div>
+voice samples.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">METHODOLOGY</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">METHODOLOGY</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .25in;">
@@ -142,27 +141,27 @@ Framework we are developing consists of machine learning tools, classification
 and regression algorithms that extract and analyze features of the voice and
 learn the correlations of the physical features and voice of the speaker. The
 framework depicts the pipeline of computations and analysis. The pipeline
-mainly consists of the following:</span><o:p></o:p></div>
+mainly consists of the following:</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoListParagraphCxSpFirst" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Feature
-Extraction</span><o:p></o:p></div>
+Extraction</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Normalization
-of data</span><o:p></o:p></div>
+of data</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Clustering
-(Bag of Words Model)</span><o:p></o:p></div>
+(Bag of Words Model)</span></div>
 <div class="MsoListParagraphCxSpLast" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Machine
-Learning Algorithms </span><o:p></o:p></div>
+Learning Algorithms </span></div>
 <div class="MsoNormalCxSpFirst" style="margin-left: .75in; mso-add-space: auto; mso-list: l1 level1 lfo3; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Classifier
-Models<o:p></o:p></span></div>
+Models</span></div>
 <div class="MsoNormalCxSpMiddle" style="margin-left: .75in; mso-add-space: auto; mso-list: l1 level1 lfo3; text-align: justify; text-indent: -.25in;">
 <!--[if !supportLists]--><span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Regression
-Models<o:p></o:p></span></div>
+Models</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -176,7 +175,7 @@ The following sections will explain the above sections in detail.</span></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">RESULTS </span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">RESULTS </span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
@@ -186,7 +185,7 @@ meagre and biased (male-female ratio was 3:1), we were still able to generate
 results with good accuracy. We could predict the gender of an unknown person’s
 voice with an accuracy of 95.2% and predict his/her height with an error of
 6.5cm. With more data, and fine-tuning, our system could become reliable enough
-to finally reach our desired goals.</span><o:p></o:p></div>
+to finally reach our desired goals.</span></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
 <span style="background: white; font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt; mso-highlight: white;"><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -196,7 +195,7 @@ to finally reach our desired goals.</span><o:p></o:p></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">WEBSITE</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">WEBSITE</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
@@ -219,30 +218,30 @@ be used for training of our models.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">FURTHER WORK</span></b><o:p></o:p></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">FURTHER WORK</span></b></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: -44.95pt; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
 <!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">LASSO regression for height estimation,</span><o:p></o:p></div>
+</span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">LASSO regression for height estimation,</span></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: -44.95pt; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
 <!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Augmenting 6000 features(speaker traits) with bags of words
-features,</span><o:p></o:p></div>
+features,</span></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-left: .5in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
 <!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Since we have got high accuracy for gender classification, we
 would now hope to see better results by using the predicted gender itself as a
-feature for height prediction.</span><o:p></o:p></div>
+feature for height prediction.</span></div>
 <div class="MsoNormalCxSpMiddle" style="margin-left: 0.5in; text-align: justify; text-indent: -17.95pt;">
 <!--[if !supportLists]--><span style="font-size: 12pt; line-height: 150%;">●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span style="font-size: 12pt; line-height: 150%;">The data collected was biased, we had a girls to boys
 ratio of 1:3. We need to test our models on a larger&nbsp;</span><span style="line-height: 24px;">data set</span><span style="font-size: 12pt; line-height: 150%;">&nbsp;with unbiased
-inputs and check for the performance.<o:p></o:p></span></div>
+inputs and check for the performance.</span></div>
 <div class="MsoNormalCxSpMiddle" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
-<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">ACKNOWLEDGMENT<o:p></o:p></span></b></div>
+<b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">ACKNOWLEDGMENT</span></b></div>
 <div class="MsoNormal" style="line-height: 150%; text-align: justify;">
 <br /></div>
 <div class="MsoNormal" style="text-align: justify;">
@@ -250,7 +249,7 @@ inputs and check for the performance.<o:p></o:p></span></div>
 Bhiksha Raj, Prof Rita Singh from CMU and Mr. Pulkit Agrawal, PhD student from
 University of California, Berkeley. A special thanks to the entire IPTSE Winter
 School Team for providing us the opportunity and resources to work on this
-project.</span><br /><br /><b>POSTER&nbsp;</b><span style="line-height: 150%;"><o:p></o:p></span></span><br />
+project.</span><br /><br /><b>POSTER&nbsp;</b><span style="line-height: 150%;"></span></span><br />
 <span style="background: white; font-size: 12.0pt; line-height: 150%; mso-fareast-font-family: &quot;Times New Roman&quot;;"><b><br /></b></span>
 <span style="background: white; font-size: 12.0pt; line-height: 150%; mso-fareast-font-family: &quot;Times New Roman&quot;;"><b><br /></b></span>
 <br />
@@ -261,17 +260,17 @@ project.</span><br /><br /><b>POSTER&nbsp;</b><span style="line-height: 150%;"><
 <br />
 <br /></div>
 <div class="MsoNormal" style="line-height: 150%;">
-<span style="font-size: 12.0pt; line-height: 150%;">Team Voice Forensics: <o:p></o:p></span></div>
+<span style="font-size: 12.0pt; line-height: 150%;">Team Voice Forensics: </span></div>
 <div class="MsoNormal" style="line-height: 150%;">
-<span style="font-size: 12.0pt; line-height: 150%;">1. Tejeswini Sundaram, BTech Computer Science, MIT Manipal<o:p></o:p></span></div>
+<span style="font-size: 12.0pt; line-height: 150%;">1. Tejeswini Sundaram, BTech Computer Science, MIT Manipal</span></div>
 <div class="MsoNormal" style="line-height: 150%;">
 <span style="font-size: 12.0pt; line-height: 150%;">2. Priya Soundararajan, Int. M.Sc. Applied Mathematics, IIT
-Roorkee<o:p></o:p></span></div>
+Roorkee</span></div>
 <div class="MsoNormal" style="line-height: 150%;">
-<span style="font-size: 12.0pt; line-height: 150%;">3. Utkarsh Patange, BTech Computer Science, IIT Kanpur<o:p></o:p></span></div>
+<span style="font-size: 12.0pt; line-height: 150%;">3. Utkarsh Patange, BTech Computer Science, IIT Kanpur</span></div>
 <div class="MsoNormal" style="line-height: 150%;">
 <span style="font-size: 12.0pt; line-height: 150%;">4. Sakthivel Sivaraman, BTech Mechanical Engineering, NITK
-Surathkal<o:p></o:p></span></div>
+Surathkal</span></div>
 <div class="MsoNormal" style="text-align: justify; text-indent: .5in;">
 </div>
 <div class="MsoNormal" style="line-height: 150%; text-align: justify;">
