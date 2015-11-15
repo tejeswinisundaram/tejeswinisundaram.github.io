@@ -4,6 +4,8 @@ title: Voice Forensics
 ---
 
 The following is a summary of the work done by my team at the CMU IPTSE Winter School 2014. <br />
+</br>
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="MsoNormal" style="text-align: justify;">
 <b><span style="font-size: 14.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">OBJECTIVE</span></b></div>
@@ -85,18 +87,18 @@ framework that does the work of:</span></div>
 <div class="MsoNormal" style="margin-left: 0.15pt; text-align: left;">
 <br /></div>
 <div class="MsoListParagraphCxSpFirst" style="text-align: left; text-indent: -0.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Collecting
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Collecting
 a large quantity of audio data from the citizens of our nation</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="text-align: left; text-indent: -0.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Storing,
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Storing,
 Analyzing, Validating the audio samples collected and managing it securely.</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="text-align: left; text-indent: -0.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Perform
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Perform
 formal research on the collected voice samples. There is no framework that
 allows for testing different models that predict physical attribute of a person
 from their voice.</span></div>
 <div class="MsoListParagraphCxSpLast" style="text-align: left; text-indent: -0.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Provides
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Provides
 aids to the work of researchers across the country to use this nationwide audio
 database for other interesting applications. (Anonymity of persons will be maintained
 for security purposes).</span></div>
@@ -145,22 +147,22 @@ mainly consists of the following:</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoListParagraphCxSpFirst" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Feature
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">1.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Feature
 Extraction</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Normalization
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">2.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Normalization
 of data</span></div>
 <div class="MsoListParagraphCxSpMiddle" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Clustering
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">3.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Clustering
 (Bag of Words Model)</span></div>
 <div class="MsoListParagraphCxSpLast" style="mso-list: l2 level1 lfo2; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Machine
+<span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">4.<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Machine
 Learning Algorithms </span></div>
 <div class="MsoNormalCxSpFirst" style="margin-left: .75in; mso-add-space: auto; mso-list: l1 level1 lfo3; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Classifier
+<span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Classifier
 Models</span></div>
 <div class="MsoNormalCxSpMiddle" style="margin-left: .75in; mso-add-space: auto; mso-list: l1 level1 lfo3; text-align: justify; text-indent: -.25in;">
-<!--[if !supportLists]--><span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><!--[endif]--><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Regression
+<span style="font-family: Wingdings; font-size: 12.0pt; line-height: 115%; mso-bidi-font-family: Wingdings; mso-bidi-font-size: 10.0pt; mso-fareast-font-family: Wingdings;">Ø<span style="font-family: 'Times New Roman'; font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp; </span></span><span style="font-size: 12.0pt; line-height: 115%; mso-bidi-font-size: 10.0pt;">Regression
 Models</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
@@ -222,20 +224,20 @@ be used for training of our models.</span></div>
 <div class="MsoNormal" style="text-align: justify;">
 <br /></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: -44.95pt; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
-<!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">LASSO regression for height estimation,</span></div>
+●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">LASSO regression for height estimation,</span></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0in; margin-left: .5in; margin-right: -44.95pt; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
-<!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Augmenting 6000 features(speaker traits) with bags of words
+●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Augmenting 6000 features(speaker traits) with bags of words
 features,</span></div>
 <div class="MsoNormalCxSpMiddle" style="line-height: 150%; margin-left: .5in; mso-add-space: auto; mso-list: l0 level1 lfo1; text-align: justify; text-indent: -17.95pt;">
-<!--[if !supportLists]-->●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span><!--[endif]--><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Since we have got high accuracy for gender classification, we
+●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style="font-size: 12.0pt; line-height: 150%; mso-bidi-font-size: 10.0pt;">Since we have got high accuracy for gender classification, we
 would now hope to see better results by using the predicted gender itself as a
 feature for height prediction.</span></div>
 <div class="MsoNormalCxSpMiddle" style="margin-left: 0.5in; text-align: justify; text-indent: -17.95pt;">
-<!--[if !supportLists]--><span style="font-size: 12pt; line-height: 150%;">●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><!--[endif]--><span style="font-size: 12pt; line-height: 150%;">The data collected was biased, we had a girls to boys
+<span style="font-size: 12pt; line-height: 150%;">●<span style="font-size: 7pt; font-stretch: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style="font-size: 12pt; line-height: 150%;">The data collected was biased, we had a girls to boys
 ratio of 1:3. We need to test our models on a larger&nbsp;</span><span style="line-height: 24px;">data set</span><span style="font-size: 12pt; line-height: 150%;">&nbsp;with unbiased
 inputs and check for the performance.</span></div>
 <div class="MsoNormalCxSpMiddle" style="text-align: justify;">
