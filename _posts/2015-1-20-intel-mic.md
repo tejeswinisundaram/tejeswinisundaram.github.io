@@ -102,17 +102,34 @@ The most common execution models are:<br />
 <br />
 <span style="color: red;"><span style="color: black;"><span style="color: red;"><span style="color: black;">In this case the application processes run on both the host and the Intel Xeon Phi<span style="color: red;"> </span>coprocessor. They usually communicate through some sort of message passing interface like MPI. This execution<span style="color: red;"> </span>environment treats Xeon Phi card as another node in a cluster in a heterogeneous cluster environment.&nbsp;&nbsp;</span></span></span></span><br />
 <br />
-<br />
-<br />
 <span style="color: red;"> </span><br />
 <b><br /></b>
 <b>References:</b><br />
 <br />
 https://software.intel.com/en-us/mic-developer<br />
-<br />
-<br />
-<br />
-<br />
 <br /></div>
 </div>
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div>
+The following links and documents contain good examples and guidelines for a novice when programming for the Intel Xeon Phi.<br />
+
+ <style type="text/css">p { margin-bottom: 0.25cm; line-height: 120%; }</style>
+
+<br />
+
+</div>
+<a href="http://software.intel.com/sites/default/files/article/335818/intel-xeon-phi-coprocessor-quick-start-developers-guide.pdf">http://software.intel.com/sites/default/files/article/335818/intel-xeon-phi-coprocessor-quick-start-developers-guide.pdf</a><br /><br />
+<br /><a href="http://software.intel.com/en-us/articles/building-a-native-application-for-intel-xeon-phi-coprocessors">http://software.intel.com/en-us/articles/building-a-native-application-for-intel-xeon-phi-coprocessors</a><br /><br />
+<br /><a href="http://www.drdobbs.com/parallel/programming-intels-xeon-phi-a-jumpstart/240144160">http://www.drdobbs.com/parallel/programming-intels-xeon-phi-a-jumpstart/240144160</a><br /><br />
+<br /><a href="http://www.prace-project.eu/IMG/pdf/Best-Practice-Guide-Intel-Xeon-Phi.pdf">http://www.prace-project.eu/IMG/pdf/Best-Practice-Guide-Intel-Xeon-Phi.pdf</a><br /><br />
+<br /><a href="http://software.intel.com/sites/default/files/article/366893/offload-runtime-for-the-intelr-xeon-phitm-coprocessor.pdf">http://software.intel.com/sites/default/files/article/366893/offload-runtime-for-the-intelr-xeon-phitm-coprocessor.pdf</a><br /><br />
+<br /><a href="http://research.colfaxinternational.com/file.axd?file=2013%2F5%2FColfax_Static_Libraries_Xeon_Phi.pdf">http://research.colfaxinternational.com/file.axd?file=2013%2F5%2FColfax_Static_Libraries_Xeon_Phi.pdf</a><br /><br />
+<br /><a href="https://hpcforge.org/plugins/mediawiki/wiki/pracewp8/images/6/68/XeonPhi.pdf">https://hpcforge.org/plugins/mediawiki/wiki/pracewp8/images/6/68/XeonPhi.pdf</a><br /><br />
+<br /><a href="http://software.intel.com/en-us/articles/getting-started-with-openmp">http://software.intel.com/en-us/articles/getting-started-with-openmp</a><br /><a href="https://www.blogger.com/goog_318173798">&nbsp;</a><br /><a href="http://d3f8ykwhia686p.cloudfront.net/1live/intel/An_Introduction_to_Vectorization_with_Intel_Compiler_021712.pdf">http://d3f8ykwhia686p.cloudfront.net/1live/intel/An_Introduction_to_Vectorization_with_Intel_Compiler_021712.pdf</a><br /><div>
+
+<div style="text-align: left;">
+</div>
+</div>
+</div>
+
 
