@@ -13,7 +13,7 @@ permalink: /
 I graduated from <a href = "http://manipal.edu/mu.html"> Manipal Institute of Technology </a> with a B.Tech in Computer Science and Engineering with a CGPA of 9.41/10 in July 2015. Previously, I have worked with professors from Carnegie Mellon University  during the CMU - NITK IPTSE winter school, and have also interned at Microsoft Bangalore. Take a look around the website for more information.
 
 <br />
-For more about my past and present work, please see my < a href = http://tejeswinisundaram.github.io/resume/"> CV </a>.
+For more about my past and present work, please see my < a href = "http://tejeswinisundaram.github.io/assets/tejeswini_resume.pdf"> CV </a>.
 
 
 </div>
