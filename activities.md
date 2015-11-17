@@ -17,4 +17,7 @@ I cherish the days my basketball team participated in the Beagles Basketball tou
 <br/>
 ###Music
 Brought up in a convent school, I was innately introduced to the school's choir (which I wasnt very good at) and also took 2 years of music lessons in piano. I enjoyed the classes then and wish to resume it sometime in the future.
+<br/>
+<br/>
+<br/>
 </span>
