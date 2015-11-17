@@ -5,6 +5,12 @@ permalink: /contact/
 ---
  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 <div class="container">
+ 
+  <div class="clearfix"></div>
+      {% if site.show_social_icons %}
+        {% include social_links.html %}
+      {% endif %}
+    </div>
 
 <form action="https://getsimpleform.com/messages?form_api_token=23de6fc7eee2d8b2763b70f0a56d0072" method="post" class="form-stacked">
     <input type='hidden' name='redirect_to' value='{{ site.url |}}/thankyou/' />
