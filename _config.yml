@@ -16,6 +16,11 @@ avatar: https://avatars3.githubusercontent.com/u/9999955?v=3&s=460
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+show_social_icons:  true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -69,6 +74,20 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
 # Exclude these files from your production _site
 exclude:
