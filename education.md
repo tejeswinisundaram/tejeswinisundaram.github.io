@@ -9,11 +9,10 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 
 **Areas of Interest**:  </br>
 
-- Heterogenous High Performance Computing 
-- Parallel Computer Vision 
+- High Performance Computing 
 - Computer Architecture 
-- Operating Systems 
 - Parallel Computing 
+- Heterogenous Computing
 - Machine Learning </br>
 
 
