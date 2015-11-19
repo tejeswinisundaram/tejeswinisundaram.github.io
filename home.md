@@ -25,9 +25,6 @@ See my  <a href = "http://tejeswinisundaram.github.io/assets/tejeswini_resume.pd
 <br/>
 <br/>
 
- <div id="footer" class="container">
-        <footer>
-  		  <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the<a href="http://www.jekyllnow.com/" rel="no follow"> Jekyll-Now</a> theme.</span>
 
-  	</footer>
-  </div>
+<span>&copy; Powered by  <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the<a href="http://www.jekyllnow.com/" rel="no follow"> Jekyll-Now</a> theme.</span>
+
