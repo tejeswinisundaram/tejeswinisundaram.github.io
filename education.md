@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 </br>
-CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited] </a>
+CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [credited-courses-pdf] </a>
 
 **Areas of Interest**:  </br>
 
