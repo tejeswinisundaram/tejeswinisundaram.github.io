@@ -25,6 +25,6 @@ See my  <a href = "http://tejeswinisundaram.github.io/assets/tejeswini_resume.pd
 <br/>
 <br/>
 
-
+<div class="container" align="center">
 <span>&copy; Powered by  <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the<a href="http://www.jekyllnow.com/" rel="no follow"> Jekyll-Now</a> theme.</span>
-
+</div>
