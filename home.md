@@ -21,6 +21,8 @@ See my  <a href = "http://tejeswinisundaram.github.io/assets/tejeswini_resume.pd
 
 <br/>
 <br/>
+
+PS : Grace Hopper Conference is around the corner and I am pumped up about it. Receiving the Student Scholarship to the Conference is so exciting. I cant wait for Dec 2-4!
 <br/>
 <br/>
 <br/>
