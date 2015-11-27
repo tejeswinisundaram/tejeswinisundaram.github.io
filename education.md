@@ -27,7 +27,16 @@ and Health Sciences (ICCMEH), 2014.<a href ="{{ site.baseurl }}/assets/rubik.pdf
 - Computer Architecture 
 - Parallel Computing 
 - Heterogenous Computing
-- Machine Learning </br>
+- Machine Learning 
+</br>
+
+**Online Courses**: </br>
+
+- Udacity CS344: Intro to Parallel Programming
+- Udacity Georgia Tech OMS CS6290: High Performance Computer Architecture
+- ud281 High Performance Computing
+- Machine Learning Stanford University (Andrew Ng)
+- Heterogeneous Parallel Programming UIUC ( Wen Mei Hwu)
 
 <br/>
 <br/>
