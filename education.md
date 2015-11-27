@@ -28,6 +28,7 @@ and Health Sciences (ICCMEH), 2014.<a href ="{{ site.baseurl }}/assets/rubik.pdf
 - Parallel Computing 
 - Heterogenous Computing
 - Machine Learning 
+
 </br>
 
 **Online Courses**: </br>
