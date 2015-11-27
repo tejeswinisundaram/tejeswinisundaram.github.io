@@ -10,16 +10,6 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 
 <br/>
 
-**Areas of Interest**:  </br>
-
-- High Performance Computing 
-- Computer Architecture 
-- Parallel Computing 
-- Heterogenous Computing
-- Machine Learning </br>
-
-<br/>
-
 **Publications during undergraduate days**: </br>
 
 - *”Word Existence Algorithm”*, Tejeswini Sundaram, Vyom Chabbra, International
@@ -28,6 +18,16 @@ Conference on Computational Methods in Engineering and Health Sciences
 - *”Binary Encryption based on a Rubiks Cube”*, Tejeswini Sundaram, Vyom
 Chabbra, International Conference on Computational Methods in Engineering
 and Health Sciences (ICCMEH), 2014.<a href ="{{ site.baseurl }}/assets/rubik.pdf"> [pdf] </a>
+
+<br/>
+
+**Areas of Interest**:  </br>
+
+- High Performance Computing 
+- Computer Architecture 
+- Parallel Computing 
+- Heterogenous Computing
+- Machine Learning </br>
 
 <br/>
 <br/>
