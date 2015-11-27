@@ -11,6 +11,7 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 <br/>
 
 **Publications during undergraduate days**: </br>
+
 - *”Binary Encryption based on a Rubiks Cube”*, Tejeswini Sundaram, Vyom
 Chabbra, International Conference on Computational Methods in Engineering
 and Health Sciences (ICCMEH), 2014.<a href ="{{ site.baseurl }}/assets/rubik.pdf"> [pdf] </a>
