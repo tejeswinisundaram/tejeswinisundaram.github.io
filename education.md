@@ -31,7 +31,10 @@ Conference on Computational Methods in Engineering and Health Sciences
 Chabbra, International Conference on Computational Methods in Engineering
 and Health Sciences (ICCMEH), 2014.<a href ="{{ site.baseurl }}/assets/rubik.pdf"> [pdf] </a>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
