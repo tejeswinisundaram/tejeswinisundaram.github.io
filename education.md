@@ -22,9 +22,14 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 
 **Technical Reports**: </br>
 
+- ***“AlCoViC : Accelerated Computer Vision using Heterogenous Coprocessors.”***,
+Sundaram T. (2015). Unpublished Bachelor Thesis, Manipal Institute
+of Technology. Guide: Prof. R. Govindarajan, Indian Institute of Science & Prof.
+Prema K.V. ,Manipal Institute of Technology.<a href ="{{ site.baseurl }}/assets/alcovic-report.pdf"> [report-pdf]</a>
+
 - ***“Voice Forensics”***, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
-(IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.
+(IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.***(Best Poster Award)*** 
 <a href ="{{ site.baseurl }}/assets/voicereport.pdf"> [report-pdf] </a>
 <a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf"> [poster-pdf] </a>
 
