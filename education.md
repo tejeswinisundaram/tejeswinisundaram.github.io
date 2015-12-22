@@ -59,7 +59,7 @@ Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology 
 
 - ***“Scavenger - Smart Waste Management System”***, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
-<a href ="{{ site.baseurl }}/assets/scavenger.jpg"> [poster-jpg] </a>
+<a href ="{{ site.baseurl }}/assets/report.pdf"> [report-pdf] </a>
 
 </br>
 
