@@ -22,7 +22,7 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 
 **Technical Reports**: </br>
 
-- ***“AlCoViC : Accelerated Computer Vision using Heterogenous Coprocessors.”***,
+- ***“AlCoViC : Accelerated Computer Vision using Heterogeneous Coprocessors.”***,
 Sundaram T. (2015). Unpublished Bachelor Thesis, Manipal Institute
 of Technology. Guide: Prof. R. Govindarajan, Indian Institute of Science & Prof.
 Prema K.V. ,Manipal Institute of Technology.<a href ="{{ site.baseurl }}/assets/alcovic-report.pdf"> [report-pdf]</a>
