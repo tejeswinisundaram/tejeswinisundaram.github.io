@@ -38,6 +38,9 @@ Chabbra, International Conference on Computational Methods in Engineering and
 Health Sciences (ICCMEH), 2014.
 <a href = "{{ site.baseurl }}/assets/rubik.pdf"> [rubik-pdf] </a>
 
+- ***“Microsoft Consulting Services India Delivery Dashboard”***, Summer Internship Report - Microsoft 2014. 
+<a href = "{{ site.baseurl }}/assets/mcs-internship-report.pdf"> [report-pdf] </a>
+
 - ***“Scavenger - Smart Waste Management System”***, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 <a href ="{{ site.baseurl }}/assets/scavenger.pdf"> [report-pdf] </a>
