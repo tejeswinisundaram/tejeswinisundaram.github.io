@@ -10,36 +10,39 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 </br>
 </br>
 
+reas of Interest***:  </br>
 
-**Technical Reports**: </br>
--*“Voice Forensics”*, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
+- High Performance Computing
+- Computer Architecture
+- Parallel Computing
+- Compilers
+- Machine Learning
+
+</br>
+</br>
+
+***Technical Reports***: </br>
+
+- **“Voice Forensics”**, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at CMU Internship Program in Technology Supported Education
 (IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.
-<a href ="{{ site.baseurl }}/assets/voicereport.pdf">[report-pdf]</a><a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf">[poster-pdf]</a>
-</br>
--*“Binary Encryption based on a Rubiks Cube”*, Tejeswini Sundaram, Vyom
+<a href ="{{ site.baseurl }}/assets/voicereport.pdf"> [report-pdf] </a>
+<a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf"> [poster-pdf] </a>
+
+- **“Binary Encryption based on a Rubiks Cube”**, Tejeswini Sundaram, Vyom
 Chabbra, International Conference on Computational Methods in Engineering and
 Health Sciences (ICCMEH), 2014.
-<a href = "{{ site.baseurl }}/assets/rubik.pdf">[pdf]</a>
-</br>
--*“Scavenger”*, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
+<a href = "{{ site.baseurl }}/assets/rubik.pdf"> [pdf] </a>
+
+- **“Scavenger”**, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
-<a href ="{{ site.baseurl }}/assets/scavenger.pdf">[report-pdf]</a>
-<a href ="{{ site.baseurl }}/assets/scavenger.jpg">[poster-pdf]</a>
-</br>
-</br>
-
-**Areas of Interest**:  </br>
-
-- High Performance Computing 
-- Computer Architecture 
-- Parallel Computing 
-- Heterogenous Computing
-- Machine Learning 
+<a href ="{{ site.baseurl }}/assets/scavenger.pdf"> [report-pdf] </a>
+<a href ="{{ site.baseurl }}/assets/scavenger.jpg"> [poster-pdf] </a>
 
 </br>
+</br>
 
-**Online Courses**: </br>
+***Online Courses***: </br>
 
 - Udacity CS344: Intro to Parallel Programming
 - Udacity Georgia Tech OMS CS6290: High Performance Computer Architecture
