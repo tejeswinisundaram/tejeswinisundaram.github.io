@@ -16,6 +16,13 @@ Utkarsh Pathange at CMU Internship Program in Technology Supported Education
 2014.<a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf">[poster-pdf]</a>
 
 <br/>
+**Published Material**: </br>
+- *“Binary Encryption based on a Rubiks Cube”*, Tejeswini Sundaram, Vyom
+Chabbra, International Conference on Computational Methods in Engineering and
+Health Sciences (ICCMEH), 2014.
+<a href = "{{ site.baseurl }/assets/rubik.pdf">[pdf]</a>
+
+<br/>
 
 **Areas of Interest**:  </br>
 
