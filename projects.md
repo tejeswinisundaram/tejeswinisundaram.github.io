@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Projects and Internship Exposure 
+title: Research Projects and Internship Exposure 
 permalink: /projects/
 ---
-###Research Intern | HPC Lab, SERC Dept., Indian Institute of Science, Bangalore. (Jan–July 2015) </br>
+
+###Project Assistant| HPC Lab, Indian Institute of Science, Bangalore (Aug 2015 - Present) </br>
+***Automatic Task Partioning of OpenCL kernels using Machine Learning Techniques in Heterogeneous Systems.***
+</br></br>
+
+###Research Intern | HPC Lab, Indian Institute of Science, Bangalore. (Jan–July 2015) </br>
 **AlCoViC: Accelerated Computer Vision on Heterogeneous Coprocessors such as Intel MIC and Nvidia GPGPUs.**</br>
 Analyzing the performance and bottlenecks involved in accelerated computer vision problems on heterogeneous
 coprocessors and GPGPUs such as Intel Xeon Phi and Nvidia Tesla,under the guidance of Prof. R Govindarajan.
