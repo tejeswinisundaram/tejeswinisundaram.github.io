@@ -7,8 +7,7 @@ permalink: /
 <span style="text-align: justify;">
 Hello There ! Thank-you for looking me up. 
 
-A litle about me : I am a technology enthusiast currently pursuing my graduate studies, Masters in Computer Science and Engineering, from University of California at San Deigo (UCSD). I enjoy programming, coding and learning new Software.  
-
+A litle about me : I am a technology enthusiast currently pursuing my graduate studies, Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I enjoy programming, coding and learning new Software.
 
 
 Previously, I worked as a Project Staff at the Super Computing Centre</a>, at the <a href = "http://www.iisc.ernet.in/">Indian Institute of Science</a>, Bangalore. My work here was directed towards Automatic Task Partitioning of OpenCL kernels in Heterogeneous Systems using Supervised Machine Learning Techniques. 
