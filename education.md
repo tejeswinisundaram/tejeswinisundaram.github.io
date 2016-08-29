@@ -12,11 +12,10 @@ CGPA : 9.41 / 10.00 </br> <a href ="{{ site.baseurl }}/assets/courses-manipal.pd
 
 **Areas of Interest**:  </br>
 
-- High Performance Computing
-- Computer Architecture
-- Parallel Computing
-- Compilers
 - Machine Learning
+- Parallel Computing
+- High Performance Computing
+
 
 </br>
 
@@ -30,16 +29,6 @@ Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology 
 - ***“Scavenger - Smart Waste Management System”***, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 <a href ="{{ site.baseurl }}/assets/scavenger.jpg"> [poster-jpg] </a>
-
-</br>
-
-**Paper Presentation**: </br>
-
-- ***"Word Existence Algorithm"***, Tejeswini Sundaram, Vyom Chabbra, International Conference on Computational Methods in Engineering and Health Sciences (ICCMEH), 2014. <a href = "http://arxiv.org/pdf/1601.04248v1.pdf"> [arxiv-paper] </a>
-- ***“Binary Encryption based on a Rubiks Cube”***, Tejeswini Sundaram, Vyom
-Chabbra, International Conference on Computational Methods in Engineering and
-Health Sciences (ICCMEH), 2014.
-<a href = "{{ site.baseurl }}/assets/rubik.pdf"> [rubik-pdf] </a>
 
 </br>
 
@@ -62,7 +51,10 @@ Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 <a href ="{{ site.baseurl }}/assets/report.pdf"> [report-pdf] </a>
 
-</br>
+- ***"Word Existence Algorithm"***, Tejeswini Sundaram, Vyom Chabbra, International Conference on Computational Methods in Engineering and Health Sciences (ICCMEH), 2014. <a href = "http://arxiv.org/pdf/1601.04248v1.pdf"> [arxiv-paper] </a>
+
+- ***“Binary Encryption based on a Rubiks Cube”***, Tejeswini Sundaram, Vyom Chabbra, International Conference on Computational Methods in Engineering and Health Sciences (ICCMEH), 2014.
+<a href = "{{ site.baseurl }}/assets/rubik.pdf"> [rubik-pdf] </a> </br>
 
 **Online Courses**: </br>
 
