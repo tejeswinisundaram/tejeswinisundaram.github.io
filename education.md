@@ -4,20 +4,43 @@ title: Academic Background
 permalink: /education/
 ---
 
-M.S in Computer Science, University of California at San Diego, Class of 2018 </br></br>
-B. Tech in Computer Science, Manipal Institute of Technology, Class of 2015 
-<a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <a href ="{{ site.baseurl }}/assets/transcript.pdf"> [View Transcript] </a>
+###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
+***Courses***
 
-</br>
+Fall 2016 
 
-**Areas of Interest**:  </br>
+- CSE 202  	Algorithm Design and Analysis
+- CSE 250A 	Probabilistic Reason&Learning
+- COGS 9  	Introduction to Data Science
+
+Winter 2017 
+
+- CSE 221  	Operating Systems
+- CSE 231  	Advanced Compiler Design
+
+###B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
+<a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <br/>
+<a href ="{{ site.baseurl }}/assets/transcript.pdf"> [View Transcript] </a> <br/>
+
+
+###Online Courses: 
+
+- Udacity CS344: Intro to Parallel Programming
+- Udacity Georgia Tech OMS CS6290: High Performance Computer Architecture
+- Udacity 281 High Performance Computing
+- Machine Learning Stanford University (Andrew Ng)
+- Heterogeneous Parallel Programming UIUC ( Wen Mei Hwu)
+
+<br/> <br/>
+
+###Areas of Interest:  <br/>
 
 - Systems
 - Parallel Computing/ High Performance Computing
 
-</br>
+<br/>
 
-**Poster Presentation**: </br>
+###Poster Presentation: <br/>
 
 - ***“Voice Forensics”***, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
@@ -30,7 +53,7 @@ John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 
 </br>
 
-**Technical Reports**: </br>
+###Technical Reports: </br>
 
 - ***"Machine Learning approaches to task partition the OpenCL kernels"*** <br/>
 Project Work at HPC Lab, IISc. Guide: Prof. R. Govindarajan, Indian Institute of Science
@@ -48,13 +71,6 @@ Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology 
 - ***“Microsoft Consulting Services India Delivery Dashboard”***, Summer Internship Report - Microsoft 2014. 
 <a href = "{{ site.baseurl }}/assets/mcs-internship-report.pdf"> [report-pdf] </a>
 
-**Online Courses**: </br>
-
-- Udacity CS344: Intro to Parallel Programming
-- Udacity Georgia Tech OMS CS6290: High Performance Computer Architecture
-- ud281 High Performance Computing
-- Machine Learning Stanford University (Andrew Ng)
-- Heterogeneous Parallel Programming UIUC ( Wen Mei Hwu)
 
 <br/>
 <br/>
