@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 ###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
-***Courses***
+**Courses at UC San Diego**<br/>
 Fall 2016 
 
 - CSE 202  	Algorithm Design and Analysis
