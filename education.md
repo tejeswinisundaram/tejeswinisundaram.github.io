@@ -6,7 +6,6 @@ permalink: /education/
 
 ###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
 ***Courses***
-
 Fall 2016 
 
 - CSE 202  	Algorithm Design and Analysis
@@ -30,8 +29,7 @@ Winter 2017
 - Udacity 281 High Performance Computing
 - Machine Learning Stanford University (Andrew Ng)
 - Heterogeneous Parallel Programming UIUC ( Wen Mei Hwu)
-
-<br/> <br/>
+<br/> 
 
 ###Areas of Interest:  <br/>
 
