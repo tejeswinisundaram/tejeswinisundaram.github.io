@@ -14,7 +14,7 @@ Analyzed and implemented a classification based machine learning model to determ
 the GPU is efficient for irregular data access and atomic operations, as expected.
 </br></br>
 
- ###Voice Forensics </br>
+###Voice Forensics </br>
 A system that would identify bodily features such as height, weight, age, sex, region of origin and various other
 demographic information about a miscreant from the voice evidence collected. The end objective was to build an
 extensive, if not comprehensive, one-of-a-kind voiceprint database to enable authorities to track criminals. The
