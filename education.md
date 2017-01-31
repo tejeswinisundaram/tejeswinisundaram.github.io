@@ -7,16 +7,12 @@ permalink: /education/
 ###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
 **Courses at UC San Diego** <br/>
 
-Fall 2016 
-
 - CSE 202  	Algorithm Design and Analysis
 - CSE 250A 	Probabilistic Reason&Learning
+- CSE 231   Advanced Compilers
+- CSE 258   Recommender Systems and Web Mining 
 - COGS 9  	Introduction to Data Science
 
-Winter 2017 
-
-- CSE 221  	Operating Systems
-- CSE 231  	Advanced Compiler Design
 
 ###B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
 <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <br/>
@@ -34,8 +30,10 @@ Winter 2017
 
 ###Areas of Interest:  <br/>
 
+
 - Systems
 - Parallel Computing/ High Performance Computing
+- Machine Learning 
 
 <br/>
 
