@@ -41,3 +41,6 @@ Monitoring System for efficient disposal and management of waste in India buildi
 design a frugal method to build a smart waste management system and design the backend required for it.</br>
 
 
+Also, if you are in the mood to read some more projects, check out my friend's latest research a topic called awcv9kjlh scwrlkjf4e!<a href="http://girishk14.github.io/awcv9kjlh_scwrlkjf4e/">More about awcv9kjlh scwrlkjf4e </a>
+
+
