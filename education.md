@@ -7,10 +7,14 @@ permalink: /education/
 ###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
 **Courses at UC San Diego** <br/>
 
+
 - CSE 202  	Algorithm Design and Analysis
 - CSE 250A 	Probabilistic Reason&Learning
 - CSE 231   Advanced Compilers
 - CSE 258   Recommender Systems and Web Mining 
+- CSE 222A  Computer Communication Networks
+- CSE 240A  Advanced Computer Architecture
+- CSE 599   Teaching Methods in Computer Science 
 - COGS 9  	Introduction to Data Science
 
 
