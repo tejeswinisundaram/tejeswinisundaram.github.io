@@ -7,7 +7,7 @@ permalink: /
 <span style="text-align: justify;">
 Hello There ! Thank-you for looking me up. 
 
-A little about me: I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I currently hold a Graduate Teaching Assistant position for the course CSE 160 : Parallel Computing under Professor Gregory Kesden at UC San Diego. 
+A little about me: I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I currently hold a Graduate Teaching Assistant position for the course CSE 120 : Operating Systems under Professor Gregory Kesden at UC San Diego.
 
 Prior to joining my Masters programme, I worked as a Research Intern and Project Staff  at the High Performance Computing (HPC) Laboratory at the Super Computing Centre</a>, <a href = "http://www.iisc.ernet.in/">Indian Institute of Science</a>, Bangalore under the guidance of Professor Govindarajan. My work here was directed towards the topics, namely, Accelerated Computer Vision using Heterogenous Systems and Automatic Task Partitioning of OpenCL kernels in Heterogeneous Systems using Machine Learning Techniques. 
 
