@@ -14,8 +14,9 @@ permalink: /education/
 - CSE 258   Recommender Systems and Web Mining 
 - CSE 222A  Computer Communication Networks
 - CSE 240A  Advanced Computer Architecture
+- ENG 210   Systems Engineering
 - CSE 599   Teaching Methods in Computer Science 
-- COGS 9  	Introduction to Data Science
+
 
 
 ###B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
