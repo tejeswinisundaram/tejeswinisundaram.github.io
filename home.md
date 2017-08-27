@@ -5,7 +5,11 @@ permalink: /
 ---
 
 <span style="text-align: justify;">
+<br/>
+
 Hello There ! Thank-you for looking me up. 
+<br/>
+
 
 I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). 
 
