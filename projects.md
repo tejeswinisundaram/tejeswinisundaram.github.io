@@ -3,6 +3,9 @@ layout: page
 title: Research Projects and Internship Exposure 
 permalink: /projects/
 ---
+### Secure Data Services
+
+Design & development of sqoop-secure data services library integration for encryption and decryption of PAN and PII data. Successfully integrated the remote and local encryption methods to the sqoop mapper classes to allow for data in-transit cryptographic operations at Visa Inc.
 
 ### Machine Learning approaches to task partition of the OpenCL kernels
 Analyzed and implemented a classification based machine learning model to determine the best device (CPU/GPU) or combination of devices (CPU+GPU) for the OpenCL kernel execution. Stochastic predictive models or Regression models where compared against the hierarchical classification approach with Support Vector Machines (SVM).
