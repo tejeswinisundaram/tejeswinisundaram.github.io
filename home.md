@@ -20,7 +20,7 @@ I graduated with a Bachelors degree in Computer Science and Engineering from  <a
 
 Take a look around the website for more details. 
 Here is a link to my  <a href = "http://tejeswinisundaram.github.io/assets/tejeswini_resume.pdf"> CV </a>.
-</span>
+
 
 <br/>
 <br/>
