@@ -7,7 +7,7 @@ permalink: /
 <span style="text-align: justify;">
 Hello There ! Thank-you for looking me up. 
 
-I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in data security, reliability, scalability, maintainability and performance. I like working on problems with large volumes of data and have prior experience working with parallel and distributed systems, hadoop and map-reduce frameworks and other complex computing systems.
+I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in data security, reliability, scalability, maintainability and performance. I like working on problems with large volumes of data and have prior experience working with parallel and distributed systems, hadoop and map-reduce frameworks and other real-time computing systems.
 
 Prior to joining my Masters programme, I worked as a Research Intern and Project Staff  at the High Performance Computing (HPC) Laboratory at the Super Computing Centre</a>, <a href = "http://www.iisc.ernet.in/">Indian Institute of Science</a>, Bangalore under the guidance of Professor Govindarajan. My work here was directed towards parallelism. performance and scalability. During my time here I have gained expertise in parallel systems and softwares and have worked with high compute environments. 
 
