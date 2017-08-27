@@ -37,7 +37,7 @@ Poster Presentation: <br/>
 
 - “Voice Forensics”, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
-(IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.***(Best Poster Award)*** 
+(IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.(Best Poster Award)
 <a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf"> [poster-pdf] </a>
 
 - “Scavenger - Smart Waste Management System”, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
