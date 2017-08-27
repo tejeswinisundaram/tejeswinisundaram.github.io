@@ -3,17 +3,24 @@ layout: page
 title: Research Projects and Internship Exposure 
 permalink: /projects/
 ---
+
 ### Secure Data Services
 
 Design & development of sqoop-secure data services library integration for encryption and decryption of PAN and PII data. Successfully integrated the remote and local encryption methods to the sqoop mapper classes to allow for data in-transit cryptographic operations at Visa Inc.
+
+
+### Hadoop Cluster Performance Imporvement
+
+Performed a study of the CPU utilization patterns, cluster configurations and scheduling algorithms at Visa Data Platform’s
+Dev, Q/A and Production Clusters. Analyzed the usage patterns and detected the cause of peak utilization. Optimized
+the process in the YARN scheduler and validated the solution by simulation of workloads
 
 ### Machine Learning approaches to task partition of the OpenCL kernels
 Analyzed and implemented a classification based machine learning model to determine the best device (CPU/GPU) or combination of devices (CPU+GPU) for the OpenCL kernel execution. Stochastic predictive models or Regression models where compared against the hierarchical classification approach with Support Vector Machines (SVM).
 
 
 ### AlCoViC: Accelerated Computer Vision on Heterogeneous Coprocessors such as Intel MIC and Nvidia GPGPUs.
-• Comparative study of Accelerated Computer Vision Applications on CPUs, GPUs and Intel MIC-Xeon Phi. 
-• Each (co-)processors behaved differently to the type of parallelism exploited and the data access patterns.The study showed that the MIC performed comparable to GPUs when regular operations and computation patterns where used and
+Comparative study of Accelerated Computer Vision Applications on CPUs, GPUs and Intel MIC-Xeon Phi. Each (co-)processors behaved differently to the type of parallelism exploited and the data access patterns.The study showed that the MIC performed comparable to GPUs when regular operations and computation patterns where used and
 the GPU is efficient for irregular data access and atomic operations, as expected.
 
 
