@@ -6,7 +6,7 @@ permalink: /
 
 <span style="text-align: justify;">
 
-Hello. Greetings. I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in data security reliability, scalability, maintainability and performance. I like working on problems with large volumes of data and have prior experience working with parallel and distributed systems, hadoop and map-reduce frameworks and other real-time computing systems.
+Hello. Greetings. I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in data - security, reliability, scalability, maintainability and performance. I like working on problems with large volumes of data and have prior experience working with parallel and distributed systems, hadoop and map-reduce frameworks and other real-time computing systems.
 
 <br/>
 
