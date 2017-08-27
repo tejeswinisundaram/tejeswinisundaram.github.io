@@ -4,8 +4,9 @@ title: Academic Background
 permalink: /education/
 ---
 
-M.S in Computer Science, University of California at San Diego, 2016 - Present  </br>
-**Courses at UC San Diego** <br/>
+**M.S in Computer Science, University of California at San Diego,**
+2016 - Present <br/><br/>
+Courses at UC San Diego <br/><br/>
 
 
 - CSE 227 Computer Security
@@ -21,13 +22,14 @@ M.S in Computer Science, University of California at San Diego, 2016 - Present  
 - CSE 599   Teaching Methods in Computer Science 
 
 
-
-B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
+ <br/><br/>
+**B.Tech in Computer Science, Manipal Institute of Technology**
+2011 - 2015 <br/>
 <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <br/>
 <a href ="{{ site.baseurl }}/assets/transcript.pdf"> [View Transcript] </a> <br/>
 
 
-Areas of Interest:  <br/>
+**Areas of Interest:**  <br/>
 
 - Data Security, Relability, Scalability and Performance 
 - Distributed Systems
