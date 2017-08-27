@@ -4,45 +4,36 @@ title: Academic Background
 permalink: /education/
 ---
 
-###M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
+M.S in Computer Science, University of California at San Diego, 2016 - Present  </br></br>
 **Courses at UC San Diego** <br/>
 
-
-- CSE 202  	Algorithm Design and Analysis
-- CSE 250A 	Probabilistic Reason&Learning
+- CSE 227  	Computer Security
+- CSE 291C  Building Secure Systems using Programming Languages and Analysis
+- CSE 221   Operaring Systems 
 - CSE 231   Advanced Compilers
-- CSE 258   Recommender Systems and Web Mining 
 - CSE 222A  Computer Communication Networks
 - CSE 240A  Advanced Computer Architecture
+- CSE 202  	Algorithm Design and Analysis
+- CSE 250A 	Probabilistic Reason&Learning
+- CSE 258   Recommender Systems and Web Mining 
 - ENG 210   Systems Engineering
 - CSE 599   Teaching Methods in Computer Science 
 
 
-
-###B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
+B.Tech in Computer Science, Manipal Institute of Technology, 2011 - 2015 <br/>
 <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <br/>
 <a href ="{{ site.baseurl }}/assets/transcript.pdf"> [View Transcript] </a> <br/>
 
 
-###Online Courses: 
+Areas of Interest:  <br/>
 
-- Udacity CS344: Intro to Parallel Programming
-- Udacity Georgia Tech OMS CS6290: High Performance Computer Architecture
-- Udacity 281 High Performance Computing
-- Machine Learning Stanford University (Andrew Ng)
-- Heterogeneous Parallel Programming UIUC ( Wen Mei Hwu)
-<br/> 
-
-###Areas of Interest:  <br/>
-
-
-- Systems
-- Parallel Computing/ High Performance Computing
-- Machine Learning 
+- Data Security, Reliability, Scalability, Maintainability andp Performance
+- Cloud Based Systems
+- Distributed systems -  hadoop and map-reduce frameworks 
 
 <br/>
 
-###Poster Presentation: <br/>
+Poster Presentation: <br/>
 
 - ***“Voice Forensics”***, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
@@ -55,7 +46,7 @@ John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 
 </br>
 
-###Technical Reports: </br>
+Technical Reports: </br>
 
 - ***"Machine Learning approaches to task partition the OpenCL kernels"*** <br/>
 Project Work at HPC Lab, IISc. Guide: Prof. R. Govindarajan, Indian Institute of Science
