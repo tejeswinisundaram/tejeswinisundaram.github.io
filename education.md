@@ -24,9 +24,9 @@ Courses at UC San Diego <br/><br/>
 
  <br/><br/>
 **B.Tech in Computer Science, Manipal Institute of Technology**, 2011 - 2015 <br/>
+ <br/><br/>
 <a href ="{{ site.baseurl }}/assets/courses-manipal.pdf"> [courses-credited-list.pdf] <br/>
 <a href ="{{ site.baseurl }}/assets/transcript.pdf"> [View Transcript] </a> <br/>
-
 
 **Areas of Interest:**  <br/>
 
