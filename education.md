@@ -35,12 +35,12 @@ Areas of Interest:  <br/>
 
 Poster Presentation: <br/>
 
-- ***“Voice Forensics”***, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
+- “Voice Forensics”, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
 (IPTSE) Winter School, held by CMU and NITK Surathkal, December 2014.***(Best Poster Award)*** 
 <a href ="{{ site.baseurl }}/assets/FinalPoster-VoiceForensics.pdf"> [poster-pdf] </a>
 
-- ***“Scavenger - Smart Waste Management System”***, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
+- “Scavenger - Smart Waste Management System”, Sundaram T. et all, GE Foundation Scholar Leader Program(GEFSLP), 
 John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 <a href ="{{ site.baseurl }}/assets/scavenger.jpg"> [poster-jpg] </a>
 
@@ -48,20 +48,20 @@ John F Welch Technology Centre (JFWTC) Bangalore, June 2013.
 
 Technical Reports: </br>
 
-- ***"Machine Learning approaches to task partition the OpenCL kernels"*** <br/>
+- "Machine Learning approaches to task partition the OpenCL kernels"<br/>
 Project Work at HPC Lab, IISc. Guide: Prof. R. Govindarajan, Indian Institute of Science
 
-- ***“AlCoViC : Accelerated Computer Vision using Heterogeneous Coprocessors.”***,
+- “AlCoViC : Accelerated Computer Vision using Heterogeneous Coprocessors.”,
 Sundaram T. (2015). Unpublished Bachelor Thesis, Manipal Institute
 of Technology. Guide: Prof. R. Govindarajan, Indian Institute of Science & Prof.
 Prema K.V. ,Manipal Institute of Technology.<a href ="{{ site.baseurl }}/assets/alcovic-report.pdf"> [report-pdf]</a>
 
-- ***“Voice Forensics”***, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
+- “Voice Forensics”, Tejeswini Sundaram, Priya Soundarajan, Sakthivel.S, and
 Utkarsh Pathange at Carnegie Mellon University Internship Program in Technology Supported Education
-(IPTSE) held by CMU and NITK Surathkal, December 2014.***(Best Poster Award)*** 
+(IPTSE) held by CMU and NITK Surathkal, December 2014.(Best Poster Award)
 <a href ="{{ site.baseurl }}/assets/voicereport.pdf"> [report-pdf] </a>
 
-- ***“Microsoft Consulting Services India Delivery Dashboard”***, Summer Internship Report - Microsoft 2014. 
+- “Microsoft Consulting Services India Delivery Dashboard”, Summer Internship Report - Microsoft 2014. 
 <a href = "{{ site.baseurl }}/assets/mcs-internship-report.pdf"> [report-pdf] </a>
 
 
