@@ -6,7 +6,11 @@ permalink: /
 
 <span style="text-align: justify;">
 
-Hello. Greetings. I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in scalability, security and performance of large scale distributed systems.
+Hello. Greetings. 
+
+<br/>
+
+I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in scalability, security and performance of large scale distributed systems.
 
 <br/>
 
