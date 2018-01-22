@@ -20,6 +20,8 @@ Prior to joining my Masters programme, I worked as a Research Assistant at the H
 
 I graduated with a Bachelors degree in Computer Science and Engineering from  <a href = "http://manipal.edu/mu.html"> Manipal Institute of Technology </a> in July 2015. As a part of my undegraduate research  I have worked with Professor <a href ="https://scholar.google.com/citations?user=0lMANmwAAAAJ&hl=en"> Rita Singh </a> and Professor <a href="https://scholar.google.com/citations?user=IWcGY98AAAAJ"> Bhiksha Raj </a> of the Language Technologies Insititute of Carnegie Mellon University as a part of the CMU Internship Program in Technology-Supported Education (IPTSE) program.
 
+<br/>
+
 My internship experiences include a summer at Microsoft and Visa. During my time at Microsoft I worked on the data visualization framework on the cloud platform, and at Visa I worked with the Visa Data Secuirty team. 
 
 <br/>
