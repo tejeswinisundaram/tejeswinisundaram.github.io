@@ -6,15 +6,17 @@ permalink: /
 
 <span style="text-align: justify;">
 
-Hello. Greetings. I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in data - security, reliability, scalability, maintainability and performance. I like working on problems with large volumes of data and have prior experience working with parallel and distributed systems, hadoop and map-reduce frameworks and other real-time computing systems.
+Hello. Greetings. I am a technology enthusiast currently pursuing my graduate studies, a Masters in Computer Science and Engineering, from the University of California at San Deigo (UCSD). I am primarily interested in scalability, security and performance of large scale distributed systems.
 
 <br/>
 
-Prior to joining my Masters programme, I worked as a Research Assistant at the High Performance Computing (HPC) Laboratory at the Super Computing Research Facility <a href = "http://www.iisc.ernet.in/">Indian Institute of Science</a>, Bangalore under the guidance of Professor Govindarajan. My work here was directed towards parallelism. performance and scalability of systems. During my time here I have gained expertise in parallel systems and softwares and have worked with high compute environments. 
+Prior to joining my Masters programme, I worked as a Research Assistant at the High Performance Computing (HPC) Laboratory at the Super Computing Research Facility <a href = "http://www.iisc.ernet.in/">Indian Institute of Science</a>, Bangalore under the guidance of Professor Govindarajan. My work here was directed towards parallelism, performance and scalability of systems. During my time here I have gained expertise in parallel systems and softwares and have worked with high compute environments. 
 
 <br/>
 
-I graduated with a Bachelors degree in Computer Science and Engineering from  <a href = "http://manipal.edu/mu.html"> Manipal Institute of Technology </a> with a CGPA of 9.41/10 in July 2015. As a part of my undegraduate research  I have worked with Professor <a href ="https://scholar.google.com/citations?user=0lMANmwAAAAJ&hl=en"> Rita Singh </a> and Professor <a href="https://scholar.google.com/citations?user=IWcGY98AAAAJ"> Bhiksha Raj </a> of the Language Technologies Insititute of Carnegie Mellon University as a part of the CMU Internship Program in Technology-Supported Education (IPTSE) program, and have also interned as a Summer Intern at Microsoft Bangalore. During my time at microsoft I have obtained experience working on data analytics and visualization on the cloud platform. 
+I graduated with a Bachelors degree in Computer Science and Engineering from  <a href = "http://manipal.edu/mu.html"> Manipal Institute of Technology </a> in July 2015. As a part of my undegraduate research  I have worked with Professor <a href ="https://scholar.google.com/citations?user=0lMANmwAAAAJ&hl=en"> Rita Singh </a> and Professor <a href="https://scholar.google.com/citations?user=IWcGY98AAAAJ"> Bhiksha Raj </a> of the Language Technologies Insititute of Carnegie Mellon University as a part of the CMU Internship Program in Technology-Supported Education (IPTSE) program.
+
+My internship experiences include a summer at Microsoft and Visa. During my time at Microsoft I worked on the data visualization framework on the cloud platform, and at Visa I worked with the Visa Data Secuirty team. 
 
 <br/>
 
